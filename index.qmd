@@ -21,20 +21,25 @@ about:
 
 ## About {#about}
 
+Brought to you by the American Statistical Association (ASA) and the Davidson College Department of Data Science, DataFest is a data analysis competition in which teams of students have 48 hours to analyze a large, complex dataset and find the stories hidden within. Hosted at colleges and universities across the country every spring, Davidson's own DataFest brings together students with mentors from the faculty and local companies, offering not only guidance and fellowship, but also networking and recruitment opportunities!
 
+At the end of the event, each team gets a few minutes to present their findings to a panel of judges, and prizes are given for the best work!
 
 ---
 
 ## Schedule {#schedule}
 
-
+Coming soon!
 
 ---
 
 ## FAQ {#faq}
 
-
+Coming soon!
 
 ---
 
 ## Sponsors {#sponsors}
+
+* Red Ventures
+* More coming soon!
