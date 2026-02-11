@@ -1,0 +1,40 @@
+---
+title: "Davidson DataFest"
+subtitle: "48-hour Data Science Hackathon!"
+format: html
+about:
+  id: hero-heading
+  template: jolla
+  image: img/datafest_logo.jpg
+  image-shape: rectangle
+  image-width: 600px
+  image-title: "DataFest logo"
+  links:
+    - icon: calendar-check-fill
+      text: "March 20-22, 2026"
+    - icon: geo-alt-fill
+      text: "Davidson College, NC"
+---
+
+:::{#hero-heading}
+:::
+
+## About {#about}
+
+
+
+---
+
+## Schedule {#schedule}
+
+
+
+---
+
+## FAQ {#faq}
+
+
+
+---
+
+## Sponsors {#sponsors}

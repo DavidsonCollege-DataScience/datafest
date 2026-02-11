@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Davidson DataFest"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: 
+    right: "Made with Quarto" 
+    background: "#0f1012"
+    foreground: "#ffffff"
+    
+  navbar:
+    search: false
+    right:
+      - text: About
+        href: index.qmd#about
+      - text: Schedule
+        href: index.qmd#schedule
+      - text: FAQ
+        href: index.qmd#faq
+      - text: Sponsors
+        href: index.qmd#sponsors
+      - sidebar:prevyears
+      
+  sidebar:
+    - id: prevyears
+      title: "Previous Events"   
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: 
+      - text: "DataFest 2025"
+        href: datafest2025.qmd
+
+format:
+  html:
+    backgroundcolor: "#e6e6e6" 
+    fontcolor: "black"
+    linkcolor: "black"
+    mainfont: "Atkinson Hyperlegible"
+    fontsize: 20px
+    theme: [materia, styles.scss]
+    
