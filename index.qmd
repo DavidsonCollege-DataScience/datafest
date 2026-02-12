@@ -48,7 +48,13 @@ At the end of the event, each team gets a few minutes to present their findings 
 
 ## Schedule {#schedule}
 
-Coming soon!
+| Day      | Date     | Times              |
+|----------|----------|--------------------|
+| Friday   | March 20 | 5:30 pm - 10:00 pm |
+| Saturday | March 21 | 9:00 am - 10:00 pm |
+| Sunday   | March 22 | 9:00 am - 4:00 pm  |
+
+A more detailed schedule is coming soon!
 
 ---
 
@@ -64,3 +70,5 @@ Coming soon!
 :::
 
 More coming soon!
+
+Interested in sponsoring Davidson DataFest? Contact [Pete Benbow](mailto:pebenbow@davidson.edu) to get involved!
