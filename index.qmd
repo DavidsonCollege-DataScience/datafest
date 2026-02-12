@@ -2,6 +2,8 @@
 title: "Davidson DataFest"
 subtitle: "48-hour Data Science Hackathon!"
 format: html
+filters:
+  - accordion
 about:
   id: hero-heading
   template: jolla
@@ -14,6 +16,23 @@ about:
       text: "March 20-22, 2026"
     - icon: geo-alt-fill
       text: "Davidson College, NC"
+listing:
+  id: sponsors-listing
+  type: grid
+  contents:
+    - sponsors.yaml
+accordion:
+  - faq:
+    - header: "Who can participate?"
+      body: "DataFest is open to all currently-enrolled Davidson students. We want a diverse group representing various majors, class years, and skill levels to participate!"
+    - header: "How much does it cost?"
+      body: "Participation in DataFest is 100% free to Davidson students! Our sponsors and the Data Science department will provide meals, snacks, and drinks for all participants."
+    - header: "What should I bring?"
+      body: "Bring your laptop and charger, a water bottle, and any other essentials you might need for a full day of building cool stuff with data!"
+    - header: "Do I need a team?"
+      body: "While DataFest does organize students into teams of three, we do not require you to bring your own team with you. If you show up solo, we will find a team for you! But you can also form your own team prior to DataFest if you like by adding your teammates' names on the registration form."
+    - header: "Will there be prizes?"
+      body: "Yes! We have three award categories: (1) Best Visualization, (2) Best Use of External Data, and (3) Best in Show. Teams who are awarded any of these categories on the final day of DataFest will receive a prize!"
 ---
 
 :::{#hero-heading}
@@ -33,13 +52,15 @@ Coming soon!
 
 ---
 
-## FAQ {#faq}
+## Frequently Asked Questions (FAQ) {#faq}
 
-Coming soon!
+{{< accordion faq >}}
 
 ---
 
 ## Sponsors {#sponsors}
 
-* Red Ventures
-* More coming soon!
+::: {#sponsors-listing}
+:::
+
+More coming soon!

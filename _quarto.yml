@@ -4,11 +4,20 @@ project:
 
 website:
   title: "Davidson DataFest"
+  repo-url: https://github.com/DavidsonCollege-DataScience/datafest
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   page-footer: 
+    center: |
+      [![](/img/davidson-wordmark-horizontal-lockup-white_sm.png){fig-alt="Davidson College" target="_blank" width=200px}](https://davidson.edu)
     right: "Made with Quarto" 
     background: "#0f1012"
     foreground: "#ffffff"
+  announcement: 
+    icon: info-circle
+    dismissable: false
+    content: "Early registration for DataFest registration is open until March 1!"
+    type: info
+    position: below-navbar
     
   navbar:
     search: false
@@ -22,6 +31,10 @@ website:
       - text: Sponsors
         href: index.qmd#sponsors
       - sidebar:prevyears
+    tools:
+      - icon: github
+        href: https://github.com/DavidsonCollege-DataScience/datafest
+        target: _blank
       
   sidebar:
     - id: prevyears
