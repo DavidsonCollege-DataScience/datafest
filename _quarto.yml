@@ -22,6 +22,8 @@ website:
   navbar:
     search: false
     right:
+      - text: "<span class='btn btn-info'>Register now!</span>"
+        href: https://forms.gle/tCDkfefZRxTFJRH79
       - text: About
         href: index.qmd#about
       - text: Schedule
@@ -31,10 +33,10 @@ website:
       - text: Sponsors
         href: index.qmd#sponsors
       - sidebar:prevyears
-    tools:
-      - icon: github
-        href: https://github.com/DavidsonCollege-DataScience/datafest
-        target: _blank
+    # tools:
+    #   - icon: github
+    #     href: https://github.com/DavidsonCollege-DataScience/datafest
+    #     target: _blank
       
   sidebar:
     - id: prevyears
