@@ -9,7 +9,7 @@ about:
   template: jolla
   image: img/datafest_logo.jpg
   image-shape: rectangle
-  image-width: 600px
+  image-width: 75%
   image-title: "DataFest logo"
   links:
     - icon: calendar-check-fill
