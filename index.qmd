@@ -46,15 +46,38 @@ At the end of the event, each team gets a few minutes to present their findings 
 
 ---
 
+## Location {#location}
+
+DataFest 2026 will be taking place in the Watson Life Sciences building on Davidson's campus. Parking is available in the Preyer lot, which is directly across Concord Road.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1433.7712338430547!2d-80.84767879290608!3d35.49958731445351!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8856aa3657441de1%3A0x75a76ac021be6677!2sWatson%20Life%20Sciences%2C%20225%20Concord%20Rd%2C%20Davidson%2C%20NC%2028036!5e1!3m2!1sen!2sus!4v1770923375616!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+---
+
 ## Schedule {#schedule}
 
-| Day      | Date     | Times              |
-|----------|----------|--------------------|
-| Friday   | March 20 | 5:30 pm - 10:00 pm |
-| Saturday | March 21 | 9:00 am - 10:00 pm |
-| Sunday   | March 22 | 9:00 am - 4:00 pm  |
+Detailed schedule coming soon!
 
-A more detailed schedule is coming soon!
+::: {.callout-note appearance="minimal"}
+## Friday, March 20
+
+- Times: 4:00 pm - 10:00 pm
+- Meals: Dinner
+:::
+
+::: {.callout-note appearance="minimal"}
+## Saturday, March 21
+
+- Times: 9:00 am - 10:00 pm
+- Meals: Breakfast, Lunch, and Dinner
+:::
+
+::: {.callout-note appearance="minimal"}
+## Sunday, March 22
+
+- Times: 9:00 am - 4:00 pm
+- Meals: Brunch
+:::
 
 ---
 
