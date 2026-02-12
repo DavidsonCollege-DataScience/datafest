@@ -52,3 +52,31 @@ div.quarto-about-jolla .about-link {
 div.quarto-about-jolla .about-link:hover {
     background-color: #90CAF9;
 }
+
+/* Make the button stand out more */
+.navbar .nav-link .btn {
+    padding: 0.5rem 1rem;  /* Increased padding for more height */
+    font-size: 0.9rem;
+    line-height: 1.2;
+    vertical-align: middle;
+}
+
+/* Ensure all navbar items are vertically centered */
+.navbar-nav {
+    align-items: center;
+}
+
+.navbar .nav-item {
+    display: flex;
+    align-items: center;
+}
+
+.navbar .nav-link {
+    display: flex;
+    align-items: center;
+}
+
+/* Remove extra spacing that might be causing alignment issues */
+nav .nav-item:not(.compact) {
+    padding-top: 0;
+}

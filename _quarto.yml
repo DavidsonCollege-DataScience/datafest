@@ -15,7 +15,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: false
-    content: "Early registration for DataFest registration is open until March 1!"
+    content: "Early registration for DataFest is open until March 1!"
     type: info
     position: below-navbar
     
