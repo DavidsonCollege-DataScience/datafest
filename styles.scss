@@ -4,6 +4,8 @@
 // https://quarto.org/docs/output-formats/html-themes.html#sass-variables
 
 /* Colors */
+/*-- scss:defaults --*/
+$primary: #d42121; // Example: a bright orange-red
 $body-bg: #FFFFFF;
 $body-color: rgb(55, 58, 60);
 $link-color: rgb(39, 128, 227);
@@ -36,11 +38,11 @@ div.quarto-about-trestles .about-entity .about-link {
 }
 
 div.quarto-about-trestles .about-entity .about-link:hover {
-    color: #90CAF9
+    color: #d42121
 }
 
 .card:hover {
-    color: #90CAF9;
+    color: #d42121;
 }
 
 div.quarto-about-jolla .about-link {
@@ -50,7 +52,7 @@ div.quarto-about-jolla .about-link {
 }
 
 div.quarto-about-jolla .about-link:hover {
-    background-color: #90CAF9;
+    background-color: #d42121;
 }
 
 /* Make the button stand out more */
@@ -104,7 +106,7 @@ nav .nav-item:not(.compact) {
 }
 
 div.callout-note.callout {
-    border-left-color: #2196f3;
+    border-left-color: #d42121;
     background-color: #ffffff;
 }
 

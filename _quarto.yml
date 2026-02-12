@@ -16,13 +16,13 @@ website:
     icon: info-circle
     dismissable: false
     content: "Early registration for DataFest is open until March 1!"
-    type: info
+    type: dark
     position: below-navbar
     
   navbar:
     search: false
     right:
-      - text: "<span class='btn btn-info'>Register now!</span>"
+      - text: "<span class='btn btn-dark'>Register now!</span>"
         href: https://forms.gle/tCDkfefZRxTFJRH79
       - text: About
         href: index.qmd#about
