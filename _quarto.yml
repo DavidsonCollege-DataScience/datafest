@@ -8,7 +8,7 @@ website:
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   page-footer: 
     center: |
-      [![](/img/davidson-wordmark-horizontal-lockup-white_sm.png){fig-alt="Davidson College" target="_blank" width=200px}](https://davidson.edu)
+      [![](/img/davidson-wordmark-horizontal-lockup-white_sm.png){fig-alt="Davidson College" target="_blank" width="75%"}](https://davidson.edu)
     right: "Made with Quarto" 
     background: "#0f1012"
     foreground: "#ffffff"
