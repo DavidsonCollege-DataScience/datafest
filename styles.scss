@@ -61,6 +61,22 @@ div.quarto-about-jolla .about-link:hover {
     vertical-align: middle;
 }
 
+/* Reduce overall navbar height */
+.navbar {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+
+/* Optionally make the navbar brand/logo smaller too */
+.navbar-logo {
+    max-height: 20px;  /* Reduced from 24px */
+}
+
+.navbar-brand {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+
 /* Ensure all navbar items are vertically centered */
 .navbar-nav {
     align-items: center;
