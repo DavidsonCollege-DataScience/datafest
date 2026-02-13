@@ -6,6 +6,7 @@ website:
   title: "Davidson DataFest"
   repo-url: https://github.com/DavidsonCollege-DataScience/datafest
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  favicon: img/Circle-favicon-32x32.png
   page-footer: 
     center: |
       [![](/img/davidson-wordmark-horizontal-lockup-white_sm.png){fig-alt="Davidson College" target="_blank" width="50%"}](https://davidson.edu)
