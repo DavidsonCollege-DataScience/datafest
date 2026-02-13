@@ -16,33 +16,9 @@ $font-family: "Atkinson Hyperlegible", sans-serif;
 
 /*-- scss:rules --*/
 
-div.quarto-about-trestles .about-entity {
-    display: flex !important;
-    flex-direction: column;
-    align-items: center;
-    text-align: left;
-    padding-right: 1em
-}
-
-div.quarto-about-trestles .about-entity .about-links {
-    flex-direction: column;
-    column-gap: .8em;
-    row-gap: 7px;
-    flex-wrap: wrap
-}
-
-div.quarto-about-trestles .about-entity .about-link {
-    font-size: 1.0em;
-    padding: .25em .5em;
-    border-radius: 4px
-}
-
-div.quarto-about-trestles .about-entity .about-link:hover {
-    color: #d42121
-}
-
 .card:hover {
     color: #d42121;
+    
 }
 
 div.quarto-about-jolla .about-link {
@@ -53,6 +29,7 @@ div.quarto-about-jolla .about-link {
 
 div.quarto-about-jolla .about-link:hover {
     background-color: #d42121;
+    color: #fff;
 }
 
 /* Make the button stand out more */
