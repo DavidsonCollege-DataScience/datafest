@@ -22,7 +22,7 @@ website:
   navbar:
     search: false
     right:
-      - text: "<span class='btn btn-dark'>Register now!</span>"
+      - text: "<span class='btn btn-light'>Register now!</span>"
         href: https://forms.gle/tCDkfefZRxTFJRH79
       - text: About
         href: index.qmd#about
