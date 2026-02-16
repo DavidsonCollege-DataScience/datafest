@@ -11,10 +11,10 @@ filters:
 
 :::: {.carousel duration=8000}
 
-:::: {.carousel-item image="img/datafest2025_01.jpg" caption="Dr. Laurie Heyer from the Department of Data Science welcomes students, mentors, and judges to DataFest!"}
+:::: {.carousel-item image="img/datafest2025_01.jpg" caption="Dr. Laurie Heyer from the Department of Data Science welcomes students, mentors, and judges to DataFest 2025 (Photo credit: Red Ventures)"}
 :::
 
-:::: {.carousel-item image="img/datafest2025_02.jpg" caption="Mentors from Red Ventures talk with Davidson students"}
+:::: {.carousel-item image="img/datafest2025_02.jpg" caption="Mentors from Red Ventures talk with Davidson students (Photo credit: Red Ventures)"}
 :::
 
 :::
