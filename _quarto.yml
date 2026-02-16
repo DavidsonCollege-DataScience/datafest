@@ -36,21 +36,12 @@ website:
         href: index.qmd#faq
       - text: Sponsors
         href: index.qmd#sponsors
-      - sidebar:prevyears
+      - text: Blog
+        href: index.qmd#blog
     # tools:
     #   - icon: github
     #     href: https://github.com/DavidsonCollege-DataScience/datafest
     #     target: _blank
-      
-  sidebar:
-    - id: prevyears
-      title: "Previous Events"   
-      style: "docked"
-      background: light
-      collapse-level: 2
-      contents: 
-      - text: "DataFest 2025"
-        href: datafest2025.qmd
 
 format:
   html:

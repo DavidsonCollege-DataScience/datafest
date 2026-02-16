@@ -1,0 +1,19 @@
+---
+title: "Highlights from DataFest 2025"
+format: html
+lightbox: true
+author: Pete Benbow
+date: Feb 16, 2026
+filters:
+  - carousel
+---
+
+20 students from across Davidson College came together to analyze real estate data, enjoy good food, and network with employers in the Charlotte area!
+
+Hosted at the [Jay Hurt Hub for Innovation and Entrepreneurship](https://hurthub.davidson.edu/){target="_blank"} from April 4-6, this was Davidson's first post-COVID DataFest event, and the first since the formation of the college's [Department of Data Science](https://www.davidson.edu/academic-departments/data-science){target="_blank"}! 
+
+## Gallery
+
+![Dr. Laurie Heyer from the Department of Data Science welcomes students, mentors, and judges to DataFest 2025 (Photo credit: Red Ventures)](../img/datafest2025_01.jpg){group="datafest2025" fig-alt="Several people in a large meeting room looking at a presentation"}
+
+![Mentors from Red Ventures talk with Davidson students (Photo credit: Red Ventures)](../img/datafest2025_02.jpg){group="datafest2025" fig-alt="A group of people standing in a circle while one of them talks and gestures"}

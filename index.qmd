@@ -13,16 +13,24 @@ about:
   image-shape: rectangle
   image-width: 75%
   image-title: "DataFest logo"
+  image-alt: "Official logo for Davidson College DataFest"
   links:
     - icon: calendar-check-fill
       text: "March 20-22, 2026"
     - icon: geo-alt-fill
       text: "Davidson College, NC"
 listing:
-  id: sponsors-listing
-  type: grid
-  contents:
-    - sponsors.yaml
+  - id: sponsors-listing
+    type: grid
+    grid-columns: 3
+    contents:
+      - sponsors.yaml
+  - id: blog-listing
+    type: grid
+    grid-columns: 2
+    max-items: 4
+    contents:
+      - "blog/*.qmd"
 accordion:
   - faq:
     - header: "Who can participate in DataFest?"
@@ -97,3 +105,11 @@ Detailed schedule coming soon!
 More coming soon!
 
 Interested in sponsoring Davidson DataFest? Contact [Pete Benbow](mailto:pebenbow@davidson.edu) to get involved!
+
+---
+
+## Blog {#blog}
+
+::: {#blog-listing}
+:::
+

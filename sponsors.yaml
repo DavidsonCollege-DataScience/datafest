@@ -1,6 +1,8 @@
 - title: "American Statistical Association"
   path: "https://www.amstat.org/"
   image: /img/asa_logo.png
+  image-alt: "Official logo of the American Statistical Association (ASA)"
 - title: "Red Ventures"
   path: "https://www.redventures.com/"
   image: /img/RV-Primary-Glyph-Full-Color.png
+  image-alt: "Official logo for Red Ventures (RV)"

@@ -40,7 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6b93ae6623fa8f46e67d73092f605db9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0aac480148b9c5750518681c14d79aa8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/accordion/accordion.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -79,13 +79,41 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-image','listing-image-alt',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-image"],
+      searchColumns: ["listing-title","listing-image","listing-image-alt"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-sponsors-listing'] = new List('listing-sponsors-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-blog-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-blog-listing'] = new List('listing-blog-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -134,6 +162,7 @@ window.Quarto = {
 <meta property="og:description" content="48-hour Data Science Hackathon!">
 <meta property="og:image" content="https://davidsoncollege-datascience.github.io/datafest/img/datafest_logo.jpg">
 <meta property="og:site_name" content="Davidson DataFest">
+<meta property="og:image:alt" content="Official logo for Davidson College DataFest">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -176,17 +205,10 @@ window.Quarto = {
     <a class="nav-link" href="./index.html#sponsors"> 
 <span class="menu-text">Sponsors</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-previous-events" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Previous Events</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-previous-events">    
-        <li>
-    <a class="dropdown-item" href="./datafest2025.html">
- <span class="dropdown-text">DataFest 2025</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html#blog"> 
+<span class="menu-text">Blog</span></a>
   </li>  
-    </ul>
-  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -209,7 +231,7 @@ window.Quarto = {
 
 
 <div class="quarto-about-jolla">
-  <img src="img/datafest_logo.jpg" class="about-image
+  <img src="img/datafest_logo.jpg" alt="Official logo for Davidson College DataFest" class="about-image
   rectangle " style="width: 75%;" title="DataFest logo">
  <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -364,7 +386,7 @@ Sunday, March 22
 <a href="https://www.amstat.org/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./img/asa_logo.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./img/asa_logo.png" class="thumbnail-image card-img" style="height: 150px;" alt="Official logo of the American Statistical Association (ASA)">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -378,7 +400,7 @@ American Statistical Association
 <a href="https://www.redventures.com/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./img/RV-Primary-Glyph-Full-Color.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./img/RV-Primary-Glyph-Full-Color.png" class="thumbnail-image card-img" style="height: 150px;" alt="Official logo for Red Ventures (RV)">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -395,6 +417,40 @@ No matching items
 </div>
 <p>More coming soon!</p>
 <p>Interested in sponsoring Davidson DataFest? Contact <a href="mailto:pebenbow@davidson.edu">Pete Benbow</a> to get involved!</p>
+<hr>
+</section>
+<section id="blog" class="level2">
+<h2 data-anchor-id="blog">Blog</h2>
+<div id="listing-blog-listing" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1771218000000" data-listing-file-modified-sort="1771256100473" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
+<a href="./blog/datafest2025.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="img\datafest2025_01.jpg" alt="Several people in a large meeting room looking at a presentation" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Highlights from DataFest 2025
+</h5>
+<div class="card-text listing-description">
+20 students from across Davidson College came together to analyze real estate data, enjoy good food, and network with employers in the Charlotte area!
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Pete Benbow
+</div>
+<div class="listing-date">
+Feb 16, 2026
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 
 
 
