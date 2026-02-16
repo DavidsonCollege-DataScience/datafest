@@ -1,6 +1,20 @@
 ---
 title: "DataFest 2025"
 format: html
+filters:
+  - carousel
 ---
 
-Highlights from DataFest 2025 coming soon!
+
+
+## Gallery
+
+:::: {.carousel duration=8000}
+
+:::: {.carousel-item image="img/datafest2025_01.jpg" caption="Dr. Laurie Heyer from the Department of Data Science welcomes students, mentors, and judges to DataFest!"}
+:::
+
+:::: {.carousel-item image="img/datafest2025_02.jpg" caption="Mentors from Red Ventures talk with Davidson students"}
+:::
+
+:::
