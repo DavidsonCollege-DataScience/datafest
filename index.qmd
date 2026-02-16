@@ -1,7 +1,9 @@
 ---
 title: "Davidson DataFest"
 subtitle: "48-hour Data Science Hackathon!"
-format: html
+format: 
+  html: 
+    smooth-scroll: true
 filters:
   - accordion
 about:
