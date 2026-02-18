@@ -9,7 +9,7 @@ filters:
 about:
   id: hero-heading
   template: jolla
-  image: img/datafest_logo.jpg
+  image: img/datafest_davidson.png
   image-shape: rectangle
   image-width: 75%
   image-title: "DataFest logo"
