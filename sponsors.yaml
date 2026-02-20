@@ -12,5 +12,9 @@
   image-alt: "Official logo for Commence"
 - title: "Trane Technologies"
   path: "https://www.tranetechnologies.com/"
-  image: 
+  image: /img/trane-logo.png
   image-alt: "Official logo for Trane Technologies"
+- title: "Davidson T&I"
+  path: "https://www.davidson.edu/offices-and-services/technology-innovation"
+  image: /img/ti-CMYK-stacked-vector.png
+  image-alt: "Official logo for Davidson College Technology & Innovation"
