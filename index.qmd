@@ -23,6 +23,7 @@ listing:
   - id: sponsors-listing
     type: grid
     grid-columns: 3
+    image-placeholder: "/img/datafest_davidson.png"
     contents:
       - sponsors.yaml
   - id: blog-listing
@@ -73,6 +74,7 @@ Detailed schedule coming soon!
 
 - Times: 4:00 pm - 10:00 pm
 - Meals: Dinner
+- Workshop: "Organizing Your DataFest Project with the Agile Scrum Framework," by Prof. Pete Benbow (Data Science)
 :::
 
 ::: {.callout-note appearance="minimal"}
