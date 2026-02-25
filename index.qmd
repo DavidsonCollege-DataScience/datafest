@@ -117,8 +117,6 @@ Detailed schedule coming soon!
 ::: {#sponsors-listing}
 :::
 
-More coming soon!
-
 Interested in sponsoring Davidson DataFest? Contact [Pete Benbow](mailto:pebenbow@davidson.edu) to get involved!
 
 ---
