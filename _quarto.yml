@@ -14,12 +14,12 @@ website:
     right: "Made with Quarto" 
     background: "#0f1012"
     foreground: "#ffffff"
-  announcement: 
-    icon: info-circle
-    dismissable: false
-    content: "Early registration for DataFest is open until March 1!"
-    type: dark
-    position: below-navbar
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: false
+  #   content: "Early registration for DataFest is open until March 1!"
+  #   type: dark
+  #   position: below-navbar
     
   navbar:
     search: false

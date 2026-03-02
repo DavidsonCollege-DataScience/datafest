@@ -87,7 +87,8 @@ Detailed schedule coming soon!
 
 - Times: 4:00 pm - 10:00 pm
 - Meals: Dinner
-- Workshop: "Organizing Your DataFest Project with the Agile Scrum Framework," by Prof. Pete Benbow (Data Science)
+- Workshops: 
+  - "Organizing Your DataFest Project with the Agile Scrum Framework" by Prof. Pete Benbow (Data Science)
 :::
 
 ::: {.callout-note appearance="minimal"}
@@ -95,6 +96,9 @@ Detailed schedule coming soon!
 
 - Times: 9:00 am - 10:00 pm
 - Meals: Breakfast, Lunch, and Dinner
+- Workshops: 
+  - "TBD" by Dr. Kevin Wang (Data Science)
+  - "TBD" by Dr. Jason Windett (UNCC School of Data Science)
 :::
 
 ::: {.callout-note appearance="minimal"}
