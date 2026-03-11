@@ -88,11 +88,11 @@ DataFest 2026 will be taking place in the Watson Life Sciences building on David
 
 |  |  |  |
 |-----------|----------------------|----------|
-| 3:30 - 4:00 PM | Sign in at the welcome desk, get your nametag and t-shirt, and proceed to Dana 146 for the kickoff. | Watson 147 (Blue) |
+| 3:30 - 4:00 PM | Sign in at the welcome desk, get your nametag and t-shirt, and proceed to Dana 146 for the kickoff. | Watson 140 (Blue) |
 | 4:00 - 5:00 PM | Attend the **kickoff** event! Learn about our sponsors and this year's competition, and receive access to the dataset. | Dana 146 |
 | 5:00 - 5:30 PM | **Workshop**: "Organizing Your DataFest Project with the Agile Scrum Framework" by Prof. Pete Benbow (Data Science) | Dana 146 |
 | 5:30 - 6:30 PM | Find a spot for your team in one of our group workspaces spread throughout Watson, and begin your initial data review and brainstorming! | Group workspaces |
-| 6:30 - 7:00 PM | Pick up your Osito's Tacos dinner, take it back to your workspace, and get to work! | Watson 147 (Blue) |
+| 6:30 - 7:00 PM | Pick up your Osito's Tacos dinner, take it back to your workspace, and get to work! | Watson 140 (Blue) |
 | 7:00 - 10:00 PM | Work session | Group workspaces |
 | 8:00 - 8:30 PM | **Workshop**: "Machine Learning with Python" by Dr. Kevin Wang (Data Science) | Dana 146 |
 
@@ -104,12 +104,12 @@ DataFest 2026 will be taking place in the Watson Life Sciences building on David
 
 |  |  |  |
 |-----------|----------------------|----------|
-| 9:00 - 10:00 AM | Pick up breakfast and coffee | Watson 147 (Blue) |
+| 9:00 - 10:00 AM | Pick up breakfast and coffee | Watson 140 (Blue) |
 | 10:00 - 10:30 AM | **Workshop**: "Maps in R" by Dr. Laurie Heyer (Data Science) | Dana 146 |
 | 10:30 AM - 12:30 PM | Work session | Group workspaces |
-| 12:30 - 1:00 PM | Pick up your Mandolino's lunch! | Watson 147 (Blue) |
+| 12:30 - 1:00 PM | Pick up your Mandolino's lunch! | Watson 140 (Blue) |
 | 1:00 - 6:30 PM | Work session | Group workspaces |
-| 6:30 - 7:00 PM | Pick up your Masala Mastee dinner! | Watson 147 (Blue) |
+| 6:30 - 7:00 PM | Pick up your Masala Mastee dinner! | Watson 140 (Blue) |
 | 7:00 - 10:00 PM | Work session | Group workspaces |
 
 :::
@@ -120,7 +120,7 @@ DataFest 2026 will be taking place in the Watson Life Sciences building on David
 
 |  |  |  |
 |-----------|----------------------|----------|
-| 10:00 - 10:30 AM | Enjoy brunch, brought to you by Milkbread! | Watson 147 (Blue) |
+| 10:00 - 10:30 AM | Enjoy brunch, brought to you by Milkbread! | Watson 140 (Blue) |
 | 10:30 AM - 12:30 PM | Work session | Group workspaces |
 | 12:30 - 1:30 PM | Upload slides & practice presentations | Group workspaces |
 | 1:30 - 2:45 PM | Present your work! Each team will have 3 minutes to share their insights and what they accomplished. | Dana 146 |
