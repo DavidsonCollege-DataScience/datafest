@@ -47,7 +47,7 @@ accordion:
     - header: "Do I need a team?"
       body: "While DataFest does organize students into teams of three, we do not require you to bring your own team with you. If you show up solo, we will find a team for you! But you can also form your own team prior to DataFest if you like by adding your teammates' names on the registration form."
     - header: "Will there be prizes?"
-      body: "Yes! We have three award categories: (1) Best Visualization, (2) Best Use of External Data, and (3) Best in Show. Teams who are awarded any of these categories on the final day of DataFest will receive a prize!"
+      body: "Yes! We have three award categories: (1) Best Visualization, (2) Best Use of External Data, and (3) Best Insight. Teams who are awarded any of these categories on the final day of DataFest will receive a prize!"
 ---
 
 :::{#hero-heading}
