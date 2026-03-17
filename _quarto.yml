@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+  resources: 
+    - "google77fcea9ec5fbdd3b.html"
 
 website:
   title: "Davidson DataFest"
