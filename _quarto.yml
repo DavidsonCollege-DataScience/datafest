@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Davidson DataFest"
+  description: "48-hour data science hackathon at Davidson College!"
   site-url: https://davidsoncollege-datascience.github.io/datafest
   repo-url: https://github.com/DavidsonCollege-DataScience/datafest
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
@@ -38,6 +39,8 @@ website:
         href: index.qmd#sponsors
       - text: Blog
         href: index.qmd#blog
+      # - icon: rss
+      #   href: index.xml
     # tools:
     #   - icon: github
     #     href: https://github.com/DavidsonCollege-DataScience/datafest

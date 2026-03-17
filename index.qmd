@@ -32,6 +32,7 @@ listing:
       - sponsors.yaml
   - id: blog-listing
     type: grid
+    # feed: true
     grid-columns: 2
     max-items: 4
     contents:
