@@ -94,7 +94,7 @@ DataFest 2026 will be taking place in the Watson Life Sciences building on David
 | 4:00 - 5:00 PM | Attend the **kickoff** event! Learn about our sponsors and this year's competition, and receive access to the dataset. | Dana 146 |
 | 5:00 - 5:30 PM | Find a spot for your team in one of our group workspaces spread throughout Watson, and begin your initial data review and brainstorming! | Group workspaces |
 | 5:30 - 6:00 PM | **Workshop**: "Organizing Your DataFest Project with the Agile Scrum Framework" by Prof. Pete Benbow (Data Science) | Dana 146 |
-| 6:00 - 6:30 PM | **Workshop**: "Understanding Healthcare Data" by Bruce Silberman (Advocate Healthcare) | Dana 146 |
+| 6:00 - 6:30 PM | **Workshop**: "Working with your Data" by special guest speaker | Dana 146 |
 | 6:30 - 7:00 PM | Pick up your Osito's Tacos dinner, take it back to your workspace, and get to work! | Watson 140 (Blue) |
 | 7:00 - 7:30 PM | **Workshop**: "Finding Census Data" by Drs. Heyer and Wang and Prof. Benbow | Dana 146 |
 | 7:30 - 10:00 PM | Work session | Group workspaces |
