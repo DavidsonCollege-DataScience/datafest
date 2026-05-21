@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.davidson.edu)",
+      "Bash(quarto render *)",
+      "Bash(quarto preview *)"
+    ]
+  }
+}

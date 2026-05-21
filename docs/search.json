@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Davidson DataFest",
     "section": "",
-    "text": "March 20-22, 2026\n  \n  \n    \n     Davidson College, NC"
+    "text": "March 19-21, 2027\n  \n  \n    \n     Davidson College, NC"
   },
   {
     "objectID": "index.html#about",
@@ -18,14 +18,14 @@
     "href": "index.html#location",
     "title": "Davidson DataFest",
     "section": "Location",
-    "text": "Location\nDataFest 2026 will be taking place in the Watson Life Sciences building on Davidson’s campus. Limited parking is available in the Preyer lot, which is directly across the street at 226 Concord Rd, Davidson, NC 28036. Additional public parking is available along Concord Road.\n\n\n\n\n\nMap showing DataFest parking locations\n\n\n\n\n\nWatson floorplan showing key DataFest locations"
+    "text": "Location\nDataFest 2027 location is TBD!"
   },
   {
     "objectID": "index.html#schedule",
     "href": "index.html#schedule",
     "title": "Davidson DataFest",
     "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\nFriday, March 20\n\n\n\n\n\n\n\n\n\n\n\n3:30 - 4:00 PM\nSign in at the welcome desk, get your nametag and t-shirt, and proceed to Dana 146 for the kickoff.\nWatson 140 (Blue)\n\n\n4:00 - 5:00 PM\nAttend the kickoff event! Learn about our sponsors and this year’s competition, and receive access to the dataset.\nDana 146\n\n\n5:00 - 5:30 PM\nFind a spot for your team in one of our group workspaces spread throughout Watson, and begin your initial data review and brainstorming!\nGroup workspaces\n\n\n5:30 - 6:00 PM\nWorkshop: “Organizing Your DataFest Project with Kanban” by Prof. Pete Benbow (Data Science)\nDana 146\n\n\n6:00 - 6:30 PM\nWorkshop: “Working with your Data” by special guest speaker\nDana 146\n\n\n6:30 - 7:00 PM\nPick up your Osito’s Tacos dinner, take it back to your workspace, and get to work!\nWatson 140 (Blue)\n\n\n7:00 - 7:30 PM\nWorkshop: “Finding Census Data” by Drs. Heyer and Wang and Prof. Benbow\nDana 146\n\n\n7:30 - 10:00 PM\nWork session\nGroup workspaces\n\n\n\n\n\n\n\n\n\n\n\nSaturday, March 21\n\n\n\n\n\n\n\n\n\n\n\n9:00 - 10:00 AM\nPick up breakfast and coffee\nWatson 140 (Blue)\n\n\n10:00 - 10:30 AM\nWorkshop: “Maps in R” by Dr. Laurie Heyer (Data Science)\nDana 146\n\n\n10:30 - 11:00 AM\nWorkshop: “Machine Learning with Python” by Dr. Kevin Wang (Data Science)\nDana 146\n\n\n11:00 AM - 12:30 PM\nWork session\nGroup workspaces\n\n\n12:30 - 1:00 PM\nPick up your Mandolino’s lunch!\nWatson 140 (Blue)\n\n\n1:00 - 6:30 PM\nWork session\nGroup workspaces\n\n\n6:30 - 7:00 PM\nPick up your Masala Mastee dinner!\nWatson 140 (Blue)\n\n\n7:00 - 10:00 PM\nWork session\nGroup workspaces\n\n\n\n\n\n\n\n\n\n\n\nSunday, March 22\n\n\n\n\n\n\n\n\n\n\n\n10:00 - 10:30 AM\nEnjoy brunch, brought to you by Milkbread!\nWatson 140 (Blue)\n\n\n10:30 AM - 12:30 PM\nWork session\nGroup workspaces\n\n\n12:30 - 1:30 PM\nUpload slides & practice presentations\nGroup workspaces\n\n\n1:30 - 2:45 PM\nPresent your work! Each team will have 3 minutes to share their insights and what they accomplished.\nDana 146\n\n\n2:45 - 3:30 PM\nEnjoy a snack and network with our sponsors while the judges deliberate.\nDana-Watson Courtyard\n\n\n3:30 - 4:00 PM\nAttend the final ceremony where awards will be announced and a boatload of gratitude will be shared!\nDana 146"
+    "text": "Schedule\nDataFest 2027 schedule is TBD!"
   },
   {
     "objectID": "index.html#faq",
@@ -46,7 +46,21 @@
     "href": "index.html#blog",
     "title": "Davidson DataFest",
     "section": "Blog",
-    "text": "Blog\n\n\n\n\n\n\n\n\nFrom Participant to Mentor to Organizer: A Statistical Journey of DataFest\n\n\n\n\n\n\nKevin Wang\n\n\nMar 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nHighlights from DataFest 2025\n\n\n\n\n\n\nPete Benbow\n\n\nFeb 16, 2026\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Blog\n\n\n\n\n\n\n\n\nFrom Uncertainty to Insight: How DataFest Transformed the Way I Understand Data\n\n\n\n\n\n\nEleiezer Majambere\n\n\nMay 21, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nFrom Participant to Mentor to Organizer: A Statistical Journey of DataFest\n\n\n\n\n\n\nKevin Wang\n\n\nMar 17, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nHighlights from DataFest 2025\n\n\n\n\n\n\nPete Benbow\n\n\nFeb 16, 2026\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/datafest2026.html",
+    "href": "blog/datafest2026.html",
+    "title": "From Uncertainty to Insight: How DataFest Transformed the Way I Understand Data",
+    "section": "",
+    "text": "DataFest at Davidson College is not just a competition, but also an opportunity to learn how to code, collaborate and use data to solve real-world problems. From cleaning messy datasets to collaborating with industry leaders like Trane Technologies, Bioinformatics major Eliezer Majambere ’27 reflects on his experience.\nThe following article was written by Eleiezer Majambere ’27 and originally published by Davidson College News on May 21, 2026.\nDataFest has become one of the most meaningful parts of my experience at Davidson. I first learned of it in the Spring 2025 semester when Professor Benbow introduced it to our class. He described it not just as a competition, but also as an opportunity to learn how to code, collaborate, and use data to solve real-world problems. That invitation stayed with me, and I decided to take the leap.\nMy first experience with DataFest was, honestly, overwhelming. Sitting in front of a large, unfamiliar dataset with only two days to produce meaningful insights felt intimidating. I remember not even knowing where to begin. The pressure of time, combined with the complexity of the data, made the challenge feel even more intense. But as the saying goes, where there is a will, there is always a way. My teammates and I leaned on each other, breaking the problem into smaller pieces, asking questions and gradually building a shared understanding of what the data was telling us. That collaborative process turned confusion into clarity.\nOne of the highlights of my experience was exactly that moment, when everything started to come together. What initially felt like noise began to reveal patterns, stories, and implications. Working as a team to interpret the data, debate its meaning and connect it to real-world issues was incredibly rewarding. Another highlight was engaging with professionals and organizations such as Trane Technologies, Commence and Red Ventures. It was inspiring to see how data is used outside the classroom to address challenges like healthcare access, housing disparities and educational inequality.\nThrough DataFest, I learned something that has reshaped how I think about data: meaningful interpretation rarely comes from a single dataset. Instead, strong conclusions emerge when multiple sources point in the same direction. When analyzing issues like healthcare disparities, I found myself looking beyond the dataset we were given, seeking additional data that could either support or challenge our findings. This process reminded me of building a more complete model, where each dataset contributes to a balanced understanding of a problem. The goal is not just to report what one dataset says, but to synthesize insights across sources to form a more reliable and nuanced conclusion.\nI also learned how careful we must be with data. Small errors, overlooked assumptions or misinterpretations can lead to conclusions that are the opposite of reality. In a world increasingly driven by data, these mistakes can have real consequences, misleading decisions, reinforcing biases or promoting inaccurate narratives. DataFest taught me to approach data with both curiosity and responsibility.\nAnother important takeaway was the reality of working with messy, real-world data. Unlike the clean datasets we often use in class, DataFest datasets were large, unstructured and sometimes difficult to manage. We spent a significant amount of time cleaning, filtering and organizing the data before we could even begin our analysis. There were moments of frustration, computer crashes, lost progress and repeated restarts, but those challenges were part of the learning process. They showed me that data work is not just about analysis; it is also about persistence, problem-solving and attention to detail.\nLooking back, DataFest has been more than just an event to me; it has been a turning point. It pushed me outside my comfort zone and helped me grow both technically and intellectually. I discovered that I enjoy working with complex, real-world problems and collaborating with others to find solutions. More importantly, I developed a deeper appreciation for the power and responsibility that come with using data.\nAs I continue my journey at Davidson and beyond, I carry these lessons with me. I hope to work with data in ways that are thoughtful, accurate and impactful, bringing together different perspectives to better understand the world and contribute to meaningful solutions."
+  },
+  {
+    "objectID": "blog/datafest2026.html#gallery",
+    "href": "blog/datafest2026.html#gallery",
+    "title": "From Uncertainty to Insight: How DataFest Transformed the Way I Understand Data",
+    "section": "Gallery",
+    "text": "Gallery\n\n\n\nDavidson DataFest 2026 group photo\n\n\n\n\n\nSpecial guest speaker\n\n\n\n\n\nOne of the DataFest teams present their work and findings\n\n\n\n\n\nAward winners for Best Use of External Data"
   },
   {
     "objectID": "blog/datafest2025.html",
